@@ -95,3 +95,7 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+            - Pranjal-ux: actions/checkout@v3
+    with:
+      token: ${{ secrets.ACCESS_TOKEN }}
+
