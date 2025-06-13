@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal-ux&show_icons=true&locale=en&layout=compact" alt="pranjal-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal-ux&show_icons=true&locale=en" alt="pranjal-ux" /></p>
+
+![snake gif](https://github.com/Pranjal-ux/Pranjal-ux/blob/output/github-snake-dark.svg)
