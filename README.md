@@ -4,8 +4,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Java | India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pranjal-ux&label=Profile%20views&color=0e75b6&style=flat"/>
